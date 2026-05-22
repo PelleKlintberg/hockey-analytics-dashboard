@@ -1,0 +1,39 @@
+# Hockey Analytics Dashboard - Web App
+
+Detta paket är för att lägga upp appen som en webbaserad tjänst.
+
+## För användare/tränare
+
+När appen är publicerad behöver användarna bara öppna en länk i webbläsaren.
+De behöver inte installera Python, VS Code eller något annat program.
+
+## Rekommenderad publicering: Streamlit Community Cloud
+
+1. Skapa ett GitHub-konto om du inte redan har ett.
+2. Skapa ett nytt repository, till exempel:
+   hockey-analytics-dashboard
+3. Ladda upp dessa filer:
+   - app.py
+   - requirements.txt
+   - README.md
+   - .streamlit/config.toml
+4. Gå till Streamlit Community Cloud.
+5. Klicka på New app.
+6. Välj GitHub-repot.
+7. Main file path ska vara:
+   app.py
+8. Klicka Deploy.
+
+När deployen är klar får du en webblänk som du kan skicka till andra tränare.
+
+## Alternativ hosting
+
+Appen kan också köras på:
+- Render
+- Hugging Face Spaces
+- Railway
+- egen server
+
+## Version
+
+Bygger på Hockey Analytics Dashboard V4.13.
