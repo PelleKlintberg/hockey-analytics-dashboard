@@ -1,0 +1,9 @@
+# Hockey Analytics Dashboard - Web Optimized
+
+Use these files for Streamlit Cloud.
+
+Main file path:
+app.py
+
+Important:
+requirements.txt must contain only package names/versions.
