@@ -1,5 +1,4 @@
-# Hockey Analytics Dashboard - Lazy Wrapper
-
-Main file path for Streamlit Cloud: app.py
-
-This version starts fast and loads dashboard_app.py only after the user clicks Start.
+streamlit==1.41.1
+pandas==2.2.3
+plotly==5.24.1
+openpyxl==3.1.5
